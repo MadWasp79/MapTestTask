@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Map Test Task</string>
+    <string name="title_activity_maps">Map Test Task</string>
+
+    <!-- Errors -->
+    <string name="exception_no_internet_connection">No internet connection</string>
+    <string name="error">Error!</string>
+    <string name="error_handler_server_error">
+        Server error. Repeat the request after 5 seconds
+    </string>
+    <string name="error_handler_unknown_error">
+        Something went wrong. Please try again later
+    </string>
+</resources>
